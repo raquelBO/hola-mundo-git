@@ -1,0 +1,1 @@
+consolelog("Hola mundo");
